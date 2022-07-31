@@ -7,7 +7,7 @@
 
 - How to reach me **kaitokuntatsu@gmail.com**
 
-- <a href="https://top.gg/de/bot/872475386620026971" target="blank">Discord Bot<a/>
+- <a href="https://top.gg/de/bot/872475386620026971" target="_blank">Discord Bot<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
