@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua</h1>
+<h1 align="center">Hi, I'm Joshua</h1>
 <h3 align="center">A wannabe software engineer and part time web developer from Germany</h3>
 
 - 🔭 I’m currently working on [KMesRework](https://github.com/KaitoKunTatsu/KMesRework)
