@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Joshua</h1>
 <h3 align="center">A wannabe software engineer and part time web developer from Germany</h3>
 
-- 🔭 I’m currently working on [KMesRework](https://github.com/KaitoKunTatsu/KMesRework)
+- I’m currently working on [KMesRework](https://github.com/KaitoKunTatsu/KMesRework)
 
-- 🌱 I’m currently learning **React, Next.js and JS backend stuff**
+- I’m currently learning **React, Next.js and JS backend stuff**
 
-- 📫 How to reach me **kaitokuntatsu@gmail.com**
+- How to reach me **kaitokuntatsu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
