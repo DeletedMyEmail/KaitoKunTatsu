@@ -3,7 +3,7 @@
 
 - I’m currently working on [KMesRework](https://github.com/KaitoKunTatsu/KMesRework)
 
-- I’m currently learning **React, Next.js and JS backend stuff**
+- I’m currently learning **React and JS backend stuff**
 
 - How to reach me **kaitokuntatsu@gmail.com**
 
