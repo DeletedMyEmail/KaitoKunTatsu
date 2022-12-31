@@ -1,3 +1,3 @@
 ## Skills
 
-![](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,py,css,html,js,github,git,linux,maven,java,mysql,sqlite,mariadb,spring,react)
+![](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,py,java,css,html,js,github,git,linux,maven,mysql,sqlite,spring,react)
