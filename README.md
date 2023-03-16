@@ -6,8 +6,11 @@
 - 🌱 And also improving my **c++** and **nextjs** skills
 
 <h3 align="left">Connect with me:</h3>
+
 - Discord: KaitoKunTatsu#3406
+
 - Email: kaitokuntatsu1@gmail.com
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
