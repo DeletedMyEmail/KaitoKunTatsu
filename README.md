@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Joshua</h1>
+<h3 align="center">A software developer from germany</h3>
+
+- 🔭 I’m currently working on [a graphics engine](https://github.com/KaitoKunTatsu/HibanaGraphics)
+
+- 🌱 I’m currently improving **my c++ and next.js skills**
+
+<h3 align="left">Connect with me:</h3>
+- Discord: KaitoKunTatsu#3406
+- Email: kaitokuntatsu1@gmail.com
+<br>
+<h3 align="left">Languages and Tools:</h3>
 
 <!--- ![](https://raw.githubusercontent.com/KaitoKunTatsu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/KaitoKunTatsu/github-stats/master/generated/overview.svg#gh-light-mode-only)
@@ -5,4 +17,4 @@
 //![](https://raw.githubusercontent.com/KaitoKunTatsu/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
 
-![](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,py,java,css,html,js,github,git,linux,maven,mysql,spring,react)
+![](https://skillicons.dev/icons?i=java,cpp,kotlin,py,bash,css,html,js,androidstudio,idea,github,git,linux,maven,mysql,react,tailwind,bootstrap)
