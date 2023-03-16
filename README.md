@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a graphics engine](https://github.com/KaitoKunTatsu/HibanaGraphics)
 
-- 🌱 I’m currently improving **my c++ and next.js skills**
+- 🌱 And also improving my **c++** and **nextjs** skills
 
 <h3 align="left">Connect with me:</h3>
 - Discord: KaitoKunTatsu#3406
