@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A software developer from germany</h3>
 
-- 🔭 I’m currently working on [a graphics engine](https://github.com/KaitoKunTatsu/HibanaGraphics)
+- 🔭 I’m currently working on an [IoT project](https://github.com/KaitoKunTatsu/Rain-Detecion-Mizuri) for a personal usecase and re-working [my websitze](https://github.com/KaitoKunTatsu/Portfolio)
 
 - 🌱 And also improving my **c++** and **nextjs** skills
 
