@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- Discord: KaitoKunTatsu#3406
+- Discord: kaitokuntatsu
 
 - Email: kaitokuntatsu1@gmail.com
 
@@ -20,6 +20,3 @@
 //![](https://raw.githubusercontent.com/KaitoKunTatsu/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
 ![](https://skillicons.dev/icons?i=java,cpp,kotlin,py,bash,css,html,js,androidstudio,idea,github,git,linux,maven,mysql,react,tailwind,bootstrap)
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z2N6HCR)
