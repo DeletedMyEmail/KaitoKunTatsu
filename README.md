@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A software developer from germany</h3>
 
-- 🔭 I’m currently working on an [IoT project](https://github.com/KaitoKunTatsu/Rain-Detection-Mizuri) for a personal usecase, rebooting my [discord bot](https://github.com/KaitoKunTatsu/SchroedingersCat) and re-working [my website](https://github.com/KaitoKunTatsu/Portfolio)
-
-- 🌱 And also improving my **c++** and **nextjs** skills
-
 <h3 align="left">Connect with me:</h3>
 
-- Discord: kaitokuntatsu
+- Discord: deletedmyemail
 
 - Email: kaitokuntatsu1@gmail.com
 
