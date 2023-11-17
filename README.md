@@ -3,8 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- Discord: deletedmyemail
-
 - Email: kaitokuntatsu1@gmail.com
 
 <br>
@@ -15,4 +13,4 @@
 ![](https://raw.githubusercontent.com/KaitoKunTatsu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 //![](https://raw.githubusercontent.com/KaitoKunTatsu/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
-![](https://skillicons.dev/icons?i=java,cpp,kotlin,py,bash,css,html,js,androidstudio,idea,github,git,linux,maven,mysql,react,tailwind,bootstrap)
+![](https://skillicons.dev/icons?i=java,cpp,bash,css,html,js,androidstudio,github,git,linux,maven,mysql,react,tailwind,bootstrap)
